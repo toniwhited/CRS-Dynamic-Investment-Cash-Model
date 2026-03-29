@@ -1,6 +1,6 @@
 # CRS Dynamic Investment/Cash Model
 
-Fortran implementation of a constant-returns-to-scale (CRS) dynamic investment model with cash holdings. The model is estimated via simulated method of moments (SMM).
+Fortran implementation of a constant-returns-to-scale (CRS) dynamic investment model with cash holdings.
 
 ## Model Overview
 
