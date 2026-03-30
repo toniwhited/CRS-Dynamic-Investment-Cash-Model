@@ -4,7 +4,7 @@ Fortran implementation of a constant-returns-to-scale (CRS) dynamic investment m
 
 ## Model Overview
 
-Firms use capital in a CRS technology to generate operating income. Each period they choose investment and cash holdings subject to adjustment costs and external financing costs. The model is solved via value function iteration and simulated to produce moments matched to Compustat data.
+Firms use capital in a CRS technology to generate operating income. Each period they choose investment and cash holdings subject to adjustment costs and external financing costs. The model is solved via value function iteration and simulated to produce moments matched to Compustat data. Model details are in `model_sketch_brief.pdf`.
 
 ## Folder Structure
 
